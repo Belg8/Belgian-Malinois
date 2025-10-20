@@ -1,7 +1,9 @@
 📌 Token Details 
 
 Contract Address: 0x7e4DAB87cBD6307E8833Cc5C540ee151C6db4F42
+
 Network: Binance Smart Chain (BEP-20)
+
 Token Symbol: BELG
 
 🎯 Mission 
