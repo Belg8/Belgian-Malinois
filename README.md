@@ -23,6 +23,7 @@ Twitter/X: https://x.com/Belgtoken
 Website: https://belgtoken.com/
 
 
-⚠️ Disclaimer
+⚠️ Disclaimer:
+
 BELG has no association with Changpeng Zhao (CZ) or his dog. This token simply pays homage to a meme we all know and love. 🐶
 BELG is a meme coin with no intrinsic value or expectation of financial return. There is no formal team, roadmap, or promise of utility. The token is purely for entertainment purposes only.
