@@ -17,6 +17,7 @@ Together, we’ll make BELG not just a token, but a movement for purpose, progre
 
 🔗 Social Links
 Twitter/X: https://x.com/Belgtoken
+
 Website: https://belgtoken.com/
 
 
