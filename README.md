@@ -15,7 +15,7 @@ We don’t chase hype — we build it.
 We don’t wait for change — we lead it.
 Together, we’ll make BELG not just a token, but a movement for purpose, progress, and impact. 🐶🚀
 
-🔗 Social Links
+
 Twitter/X: https://x.com/Belgtoken
 
 Website: https://belgtoken.com/
